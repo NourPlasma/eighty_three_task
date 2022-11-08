@@ -1,0 +1,94 @@
+{
+  "status": 1,
+  "data": {
+    "category_total_count": 36,
+    "addresses": [
+      {
+        "id": 1,
+        "image": "https://foyr.com/learn/wp-content/uploads/2021/08/design-your-dream-home.jpg",
+        "title": "Home Address",
+        "address": "Mustafa St. No:2 Street x12"
+      },
+      {
+        "id": 2,
+        "image": "https://media.architecturaldigest.com/photos/56b524de4ac3d842677b9ac0/master/w_2323,h_1548,c_limit/home-office-01.jpg",
+        "title": "Office Address",
+        "address": "Axis Istanbul, B2 Blok Floor 2, Office 11"
+      },
+      {
+        "id": 3,
+        "image": "https://api.time.com/wp-content/uploads/2021/02/laptop-home-office.jpg",
+        "title": "Work Address",
+        "address": "Babers St. No:4 Street x9"
+      }
+    ],
+    "offers_banners": [
+      {
+        "id": 1,
+        "image": "https://img.freepik.com/free-vector/mega-sale-offers-banner-template_1017-31299.jpg"
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Steak",
+        "image": "https://assets.bonappetit.com/photos/57ad5452f1c801a1038bcb97/master/pass/perfect-porterhouse-steak.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Vegetables",
+        "image": "https://www.cdc.gov/foodsafety/images/comms/features/GettyImages-1247930626-500px.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Beverages",
+        "image": "https://c.ndtvimg.com/2021-02/e2uarbeo_juice-_625x300_25_February_21.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Fish",
+        "image": "http://www.reef2rainforest.com/wp-content/uploads/2015/04/shutterstock_fish-mkt.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Juice",
+        "image": "https://www.alphafoodie.com/wp-content/uploads/2020/11/Orange-Juice-1-of-1-500x500.jpeg"
+      }
+    ],
+    "deals": [
+      {
+        "id": 1,
+        "name": "Summer Sun Ice Cream Pack",
+        "time": "30 Minutes Away",
+        "quantity": 5,
+        "discounted_price": 15,
+        "original_price": 20,
+        "type": "Pieces",
+        "image": "https://www.biggerbolderbaking.com/wp-content/uploads/2020/01/2-Ingredient-Ice-cream-Thumbnail-scaled.jpg",
+        "is_favourite": false
+      },
+      {
+        "id": 2,
+        "name": "Red Juice",
+        "time": "15 Minutes Away",
+        "quantity": 100,
+        "discounted_price": 10,
+        "original_price": 20,
+        "type": "Bottle",
+        "image": "https://static.toiimg.com/photo/83771197/83771197.jpg",
+        "is_favourite": false
+      },
+      {
+        "id": 3,
+        "name": "Salmon Meal",
+        "time": "1 Hour Away",
+        "quantity": 50,
+        "discounted_price": 50,
+        "original_price": 80,
+        "type": "Serving",
+        "image": "https://www.feastingathome.com/wp-content/uploads/2022/08/Grilled-Salmon-9.jpg",
+        "is_favourite": false
+      }
+    ]
+  }
+}
